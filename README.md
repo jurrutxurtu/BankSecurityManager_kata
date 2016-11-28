@@ -1,0 +1,5 @@
+Security Manager legacy code refactoring kata.
+
+Ported from the code in C# by Richard Dalton [http://www.devjoy.com/2013/01/legacy-code-katas/](http://www.devjoy.com/2013/01/legacy-code-katas/)
+# BankSecurityManager_kata
+# BankSecurityManager_kata
